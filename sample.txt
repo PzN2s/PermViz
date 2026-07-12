@@ -1,0 +1,3 @@
+This is a sample file for testing PermViz.
+You can use this file to test permission changes.
+Line 3 of the sample file.
