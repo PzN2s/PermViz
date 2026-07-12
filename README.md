@@ -2,6 +2,8 @@
 
 A terminal-based tool for viewing and editing Linux file permissions through an interactive text user interface (TUI).
 
+![PermViz Screenshot](imsage.png)
+
 ## What is PermViz
 
 PermViz is a Python application that lets you visualize and modify file permissions on Linux systems using a simple checkbox-based interface. Instead of memorizing chmod commands and octal numbers, you can toggle permissions on and off and see the result in real time.
@@ -116,6 +118,7 @@ permviz/
   main.py           # Main application code
   requirements.txt  # Python dependencies
   shell.nix         # NixOS environment
+  imsage.png        # Screenshot
   sample.txt        # Sample file for testing
 ```
 
