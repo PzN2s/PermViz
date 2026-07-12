@@ -1,5 +1,7 @@
 # PermViz - Linux Permission Editor
 
+> Developed by **DEV:Reham**
+
 A terminal tool that lets you view and edit Linux file permissions through a clean, interactive interface.
 
 ## What it does

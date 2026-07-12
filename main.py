@@ -111,7 +111,7 @@ class PermVizApp(App):
         display: none;
     }
     """
-    TITLE = "PermViz"
+    TITLE = "DEV:Reham | PermViz"
 
     def __init__(self, filepath):
         super().__init__()

@@ -1,5 +1,7 @@
 # PermViz
 
+> Developed by **DEV:Reham**
+
 A terminal-based tool for viewing and editing Linux file permissions through an interactive text user interface (TUI).
 
 ![PermViz Screenshot](imsage.png)
